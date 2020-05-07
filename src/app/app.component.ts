@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as Datamap from 'node_modules/datamaps/dist/datamaps.world.min.js';
+import * as Datamap from 'node_modules/datamaps/dist/datamaps.usa.min.js';
 
 declare var Datamap: any;
 
